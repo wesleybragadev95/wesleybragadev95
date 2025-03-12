@@ -5,4 +5,4 @@
 - 🇨🇦 Estou aprendo inglês
 - 📱 Linkedin: Pablo Wesley Braga / Instagram: @Wesleybraga95
 - 🤓 Pronome: Ele/Dele
-- 
+  
