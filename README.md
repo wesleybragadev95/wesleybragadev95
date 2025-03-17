@@ -4,7 +4,7 @@
 - 🖱️ Eu estou estudando por fora HTML e CSS 
 - 🇨🇦 Estou aprendo inglês
 - 📱 Linkedin: Pablo Wesley Braga / Instagram: @Wesleybraga95
-- 🤓 Pronome: Ele/Dele
+- 🤓 Sonho em trabalhar com desenvovimento web, mobile ou banco de dados
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
