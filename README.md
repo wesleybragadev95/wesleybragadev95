@@ -1,7 +1,8 @@
 ## Olá! Eu sou Wesley Braga 👋
 
-- 🖥️ Hoje eu estou cursando o 1º Período de ADS
-- 🖱️ Eu estou estudando por fora HTML e CSS 
+- 🖥️ Hoje eu estou cursando o 2º Período de ADS pela UNISUAM - Campo Grande RJ
+- 🖱️ Eu estou estudando por fora HTML e CSS
+- 🖱️ Aprendendo Banco de Dados e Modelagem de Dados pela faculdade
 - 🇨🇦 Estou aprendo inglês
 - 📱 Linkedin: Pablo Wesley Braga / Instagram: @Wesleybraga95
 - 🤓 Sonho em trabalhar com desenvovimento web, mobile ou banco de dados
