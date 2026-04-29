@@ -1,6 +1,6 @@
 ## Olá! Eu sou Wesley Braga 👋
 
-- 🖥️ Atualmente eu estou cursando o 2º Período de ADS pela UNISUAM - Campo Grande RJ
+- 🖥️ Atualmente eu estou cursando o 3º Período de ADS pela UNISUAM - Campo Grande RJ
 - 🖱️ Eu estou estudando por fora HTML e CSS
 - 🖱️ Aprendendo Banco de Dados e Modelagem de Dados pela faculdade
 - 🇨🇦 Estou aprendo inglês
